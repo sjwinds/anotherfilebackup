@@ -1,3 +1,7 @@
 Use PIL.Image to open image
-check the image attributes, for instance size, mode
+
+Use matplot to view the original image
+
+Use PIL.Image to open the image, convert image to numpy array
+Rotate, resize, crop and convert to Grayscale
 
